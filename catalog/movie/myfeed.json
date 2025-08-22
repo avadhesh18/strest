@@ -4,277 +4,931 @@
         {
             "name": "Jurassic World: Rebirth",
             "id": "tt31036941",
-            "runtime": "2h 13m",
+            "runtime": "133 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt31036941.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt31036941\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.0",
-            "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough."
+            "imdbRating": 6,
+            "description": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Jonathan Bailey, Scarlett Johansson, and Mahershala Ali in Jurassic World: Rebirth (2025)"
+            ]
         },
         {
             "name": "Mahavatar Narsimha",
             "id": "tt34365591",
-            "runtime": "2h 10m",
+            "runtime": "130 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt34365591.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt34365591\/img",
-            "year": "2024",
+            "year": 2024,
             "type": "movie",
-            "imdbRating": " 9.2",
-            "description": "The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance."
+            "imdbRating": 9.2,
+            "description": "The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance.",
+            "genres": [
+                "Animation",
+                "Action",
+                "Drama"
+            ],
+            "cast": [
+                "Ashwin Kumar in Mahavatar Narsimha (2024)"
+            ]
         },
         {
             "name": "War 2",
             "id": "tt27425164",
-            "runtime": "2h 50m",
+            "runtime": "170 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt27425164.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt27425164\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.1",
-            "description": "Things get complicated when Kabir Dhaliwal, a secret agent, is accused of betraying his nation and his former batchmate Vikram is assigned the task of finding him."
+            "imdbRating": 6.1,
+            "description": "Things get complicated when Kabir Dhaliwal, a secret agent, is accused of betraying his nation and his former batchmate Vikram is assigned the task of finding him.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "cast": [
+                "Hrithik Roshan, N.T. Rama Rao Jr., and Kiara Advani in War 2 (2025)"
+            ]
         },
         {
             "name": "Tehran",
             "id": "tt21818782",
-            "runtime": "1h 55m",
+            "runtime": "115 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt21818782.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt21818782\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.9",
-            "description": "After a 2012 Delhi bombing, officer RK's Tehran mission turns deadly when Iran targets him and India abandons him in his quest to expose the truth."
+            "imdbRating": 6.9,
+            "description": "After a 2012 Delhi bombing, officer RK's Tehran mission turns deadly when Iran targets him and India abandons him in his quest to expose the truth.",
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "cast": [
+                "Tehran (2025)"
+            ]
         },
         {
             "name": "Coolie",
             "id": "tt27441481",
-            "runtime": "2h 48m",
+            "runtime": "168 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt27441481.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt27441481\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.4",
-            "description": "Delves into a man's relentless quest for vengeance since youth, driven by righting past wrongs, shaping his very existence. Viewers experience the complexities of his tumultuous vendetta journey."
+            "imdbRating": 6.4,
+            "description": "Delves into a man's relentless quest for vengeance since youth, driven by righting past wrongs, shaping his very existence. Viewers experience the complexities of his tumultuous vendetta journey.",
+            "genres": [
+                "Action"
+            ],
+            "cast": [
+                "Coolie (2025)"
+            ]
         },
         {
             "name": "Saiyaara",
             "id": "tt28037987",
-            "runtime": "2h 30m",
+            "runtime": "150 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt28037987.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt28037987\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.5",
-            "description": "Vaani and Krish will have to navigate life, their problems, their insecurities to hopefully realise that only love can be the answer to everything."
+            "imdbRating": 6.5,
+            "description": "Vaani and Krish will have to navigate life, their problems, their insecurities to hopefully realise that only love can be the answer to everything.",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "cast": [
+                "Saiyara in Saiyaara (2025)"
+            ]
         },
         {
             "name": "Sitaare Zameen Par",
             "id": "tt29471573",
-            "runtime": "2h 35m",
+            "runtime": "155 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt29471573.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt29471573\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.9",
-            "description": "After a DUI, an arrogant basketball coach must train Neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life."
+            "imdbRating": 6.9,
+            "description": "After a DUI, an arrogant basketball coach must train Neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life.",
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Sport"
+            ],
+            "cast": [
+                "Aamir Khan in Sitaare Zameen Par (2025)"
+            ]
         },
         {
             "name": "Dhadak 2",
             "id": "tt13451410",
-            "runtime": "2h 22m",
+            "runtime": "142 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt13451410.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt13451410\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 7.1",
-            "description": "A searing romantic drama about identity, power, and the cost of love in the world we live in."
+            "imdbRating": 7.1,
+            "description": "A searing romantic drama about identity, power, and the cost of love in the world we live in.",
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Romance"
+            ],
+            "cast": [
+                "Siddhant Chaturvedi and Triptii Dimri in Dhadak 2 (2025)"
+            ]
         },
         {
             "name": "War Horse",
             "id": "tt1568911",
-            "runtime": "2h 26m",
+            "runtime": "146 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1568911.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1568911\/img",
-            "year": "2011",
+            "year": 2011,
             "type": "movie",
-            "imdbRating": " 7.2",
-            "description": "A young farm boy enlists to serve in World War I after his beloved horse is sold to the cavalry. His hopeful journey takes him out of England and onto the front lines as the war rages on."
+            "imdbRating": 7.2,
+            "description": "A young farm boy enlists to serve in World War I after his beloved horse is sold to the cavalry. His hopeful journey takes him out of England and onto the front lines as the war rages on.",
+            "genres": [
+                "Adventure",
+                "Drama",
+                "War"
+            ],
+            "cast": [
+                "Jeremy Irvine in War Horse (2011)"
+            ]
         },
         {
             "name": "Housefull 5",
             "id": "tt9104736",
-            "runtime": "2h 43m",
+            "runtime": "163 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt9104736.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt9104736\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 3.4",
-            "description": "In this murder mystery comedy, several imposters claiming to be the son of a recently deceased billionaire compete for his fortune aboard a luxury cruise ship."
+            "imdbRating": 3.4,
+            "description": "In this murder mystery comedy, several imposters claiming to be the son of a recently deceased billionaire compete for his fortune aboard a luxury cruise ship.",
+            "genres": [
+                "Comedy",
+                "Mystery",
+                "Thriller"
+            ],
+            "cast": [
+                "Sanjay Dutt, Jackie Shroff, Nana Patekar, Fardeen Khan, Abhishek Bachchan, Akshay Kumar, Johny Lever, Dino Morea, Chunky Pandey, Ranjeet Bedi, Akashdeep Sabir, Riteish Deshmukh, Shreyas Talpade, Chitrangda Singh, Jacqueline Fernandez, Nikitin Dheer, Nargis Fakhri, Sonam Bajwa, and Soundarya Sharma in Housefull 5 (2025)"
+            ]
         },
         {
             "name": "Edge of Tomorrow",
             "id": "tt1631867",
-            "runtime": "1h 53m",
+            "runtime": "113 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1631867.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1631867\/img",
-            "year": "2014",
+            "year": 2014,
             "type": "movie",
-            "imdbRating": " 7.9",
-            "description": "A man fighting in a war against aliens must relive the same day every time he dies until he can find a way to stop their power source with the help of an elite soldier."
+            "imdbRating": 7.9,
+            "description": "A man fighting in a war against aliens must relive the same day every time he dies until he can find a way to stop their power source with the help of an elite soldier.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Tom Cruise and Emily Blunt in Edge of Tomorrow (2014)"
+            ]
         },
         {
             "name": "Kingdom",
             "id": "tt11773426",
-            "runtime": "2h 38m",
+            "runtime": "158 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt11773426.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt11773426\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 5.9",
-            "description": "An undercover police constable is plunged into Sri Lanka on a covert mission to dismantle a powerful syndicate-only to discover its mastermind is his estranged brother, forcing him to confront family loyalty, and the moral cost of duty."
+            "imdbRating": 5.9,
+            "description": "An undercover police constable is plunged into Sri Lanka on a covert mission to dismantle a powerful syndicate-only to discover its mastermind is his estranged brother, forcing him to confront family loyalty, and the moral cost of duty.",
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "cast": [
+                "Sai Soujanya, Anirudh Ravichander, Vijay Deverakonda, Navin Nooli, Girish Gangadharan, Suryadevara Naga Vamsi, and Gowtam Tinnanuri in Kingdom (2025)"
+            ]
         },
         {
             "name": "12th Fail",
             "id": "tt23849204",
-            "runtime": "2h 27m",
+            "runtime": "147 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt23849204.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt23849204\/img",
-            "year": "2023",
+            "year": 2023,
             "type": "movie",
-            "imdbRating": " 8.7",
-            "description": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi."
+            "imdbRating": 8.7,
+            "description": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+            "genres": [
+                "Biography",
+                "Drama"
+            ],
+            "cast": [
+                "Vikrant Massey in 12th Fail (2023)"
+            ]
         },
         {
             "name": "Su from So",
             "id": "tt37629310",
-            "runtime": "2h 17m",
+            "runtime": "137 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt37629310.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt37629310\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 8.5",
-            "description": "In a quiet village, a boy's innocent crush unleashes strange events that have everyone convinced he's brought a ghost along with his feelings"
+            "imdbRating": 8.5,
+            "description": "In a quiet village, a boy's innocent crush unleashes strange events that have everyone convinced he's brought a ghost along with his feelings",
+            "genres": [
+                "Comedy",
+                "Horror"
+            ],
+            "cast": [
+                "Su from So (2025)"
+            ]
         },
         {
             "name": "The Ritual",
             "id": "tt32194932",
-            "runtime": "1h 38m",
+            "runtime": "98 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt32194932.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt32194932\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 4.5",
-            "description": "Two priests, one in crisis with his faith and the other confronting a turbulent past, must overcome their differences to perform a risky exorcism."
+            "imdbRating": 4.5,
+            "description": "Two priests, one in crisis with his faith and the other confronting a turbulent past, must overcome their differences to perform a risky exorcism.",
+            "genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "cast": [
+                "Abigail Cowen in The Ritual (2025)"
+            ]
         },
         {
             "name": "1917",
             "id": "tt8579674",
-            "runtime": "1h 59m",
+            "runtime": "119 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt8579674.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt8579674\/img",
-            "year": "2019",
+            "year": 2019,
             "type": "movie",
-            "imdbRating": " 8.2",
-            "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+            "imdbRating": 8.2,
+            "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+            "genres": [
+                "Action",
+                "Drama",
+                "War"
+            ],
+            "cast": [
+                "George MacKay and Dean-Charles Chapman in 1917 (2019)"
+            ]
         },
         {
             "name": "3BHK",
             "id": "tt32411272",
-            "runtime": "2h 30m",
+            "runtime": "150 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt32411272.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt32411272\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 7.3",
-            "description": "A middle-class family battles financial hurdles and personal setbacks while pursuing their dream of owning a home in the bustling city."
+            "imdbRating": 7.3,
+            "description": "A middle-class family battles financial hurdles and personal setbacks while pursuing their dream of owning a home in the bustling city.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Devayani, R. Sarathkumar, Arun Vishwa, Meetha Raghunath, Siddharth, Sri Ganesh, and Jaikumar Vairavan in 3BHK (2025)"
+            ]
         },
         {
             "name": "The Help",
             "id": "tt1454029",
-            "runtime": "2h 26m",
+            "runtime": "146 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1454029.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1454029\/img",
-            "year": "2011",
+            "year": 2011,
             "type": "movie",
-            "imdbRating": " 8.1",
-            "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis."
+            "imdbRating": 8.1,
+            "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Viola Davis, Bryce Dallas Howard, Octavia Spencer, and Emma Stone in The Help (2011)"
+            ]
         },
         {
             "name": "Jumanji: Welcome to the Jungle",
             "id": "tt2283362",
-            "runtime": "1h 59m",
+            "runtime": "119 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt2283362.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt2283362\/img",
-            "year": "2017",
+            "year": 2017,
             "type": "movie",
-            "imdbRating": " 7.0",
-            "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game."
+            "imdbRating": 7,
+            "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "cast": [
+                "Jack Black, Kevin Hart, Dwayne Johnson, and Karen Gillan in Jumanji: Welcome to the Jungle (2017)"
+            ]
         },
         {
             "name": "Oho Enthan Baby",
             "id": "tt31312310",
-            "runtime": "2h 10m",
+            "runtime": "130 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt31312310.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt31312310\/img",
-            "year": "2025",
+            "year": 2025,
             "type": "movie",
-            "imdbRating": " 6.5",
-            "description": "After Meera discovers his issues and leaves, filmmaker Ashwin channels his pain into a movie script. While pitching it, he questions if he wants this ending for his real story."
+            "imdbRating": 6.5,
+            "description": "After Meera discovers his issues and leaves, filmmaker Ashwin channels his pain into a movie script. While pitching it, he questions if he wants this ending for his real story.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Oho Enthan Baby (2025)"
+            ]
         },
         {
             "name": "Long Distance",
             "id": "tt9883398",
-            "runtime": "1h 26m",
+            "runtime": "86 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt9883398.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt9883398\/img",
-            "year": "2024",
+            "year": 2024,
             "type": "movie",
-            "imdbRating": " 5.7",
-            "description": "It follows an asteroid miner who, after crash-landing on an alien planet, must make his way across the harsh terrain, running out of oxygen, hunted by strange creatures, to the only other survivor."
+            "imdbRating": 5.7,
+            "description": "It follows an asteroid miner who, after crash-landing on an alien planet, must make his way across the harsh terrain, running out of oxygen, hunted by strange creatures, to the only other survivor.",
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Naomi Scott and Anthony Ramos in Long Distance (2024)"
+            ]
         },
         {
             "name": "3 Idiots",
             "id": "tt1187043",
-            "runtime": "2h 50m",
+            "runtime": "170 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1187043.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1187043\/img",
-            "year": "2009",
+            "year": 2009,
             "type": "movie",
-            "imdbRating": " 8.4",
-            "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\"."
+            "imdbRating": 8.4,
+            "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "cast": [
+                "Sharman Joshi, Aamir Khan, and Madhavan in 3 Idiots (2009)"
+            ]
         },
         {
             "name": "Ready Player One",
             "id": "tt1677720",
-            "runtime": "2h 20m",
+            "runtime": "140 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1677720.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1677720\/img",
-            "year": "2018",
+            "year": 2018,
             "type": "movie",
-            "imdbRating": " 7.4",
-            "description": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world."
+            "imdbRating": 7.4,
+            "description": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Steven Spielberg, Ben Mendelsohn, George Michael, Simon Pegg, Mark Rylance, Perdita Weeks, Kamara Benjamin Barnett, Mandy June Turpin, T.J. Miller, Lena Waithe, Stephen Mitchell, Neet Mohan, Win Morisaki, Elliot Barnes-Worrell, Kae Alexander, Sarah Sharman, Robert Gilbert, Raed Abbas, Letitia Wright, Tye Sheridan, Asan N'Jie, Hannah John-Kamen, Cara Theobold, Olivia Cooke, Alphonso Austin, Amy Clare Beales, Jane Leaney, Kathryn Wilder, and Philip Zhao in Ready Player One (2018)"
+            ]
         },
         {
             "name": "King Arthur: Legend of the Sword",
             "id": "tt1972591",
-            "runtime": "2h 6m",
+            "runtime": "126 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1972591.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt1972591\/img",
-            "year": "2017",
+            "year": 2017,
             "type": "movie",
-            "imdbRating": " 6.7",
-            "description": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not."
+            "imdbRating": 6.7,
+            "description": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "cast": [
+                "Charlie Hunnam in King Arthur: Legend of the Sword (2017)"
+            ]
         },
         {
             "name": "Home",
             "id": "tt2224026",
-            "runtime": "1h 34m",
+            "runtime": "94 min",
             "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt2224026.jpg",
             "background": "https:\/\/images.metahub.space\/background\/medium\/tt2224026\/img",
-            "year": "2015",
+            "year": 2015,
             "type": "movie",
-            "imdbRating": " 6.5",
-            "description": "Oh, a lovable misfit alien, runs away from his planet and takes shelter on Earth, where he befriends Tip, an adventurous young girl who is on a quest to find her displaced mother Lucy."
+            "imdbRating": 6.5,
+            "description": "Oh, a lovable misfit alien, runs away from his planet and takes shelter on Earth, where he befriends Tip, an adventurous young girl who is on a quest to find her displaced mother Lucy.",
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Comedy"
+            ],
+            "cast": [
+                "Jim Parsons in Home (2015)"
+            ]
+        },
+        {
+            "name": "Kuberaa",
+            "id": "tt23846482",
+            "runtime": "181 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt23846482.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt23846482\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 6.4,
+            "description": "A beggar undergoes a dramatic transformation, exploring themes of greed, ambition, and moral dilemmas faced by the characters leading to a quest for redemption.",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "cast": [
+                "Nagarjuna Akkineni, Thota Tharani, Devi Sri Prasad, Dhanush, Suniel Narang, Thotta Tharani, Sekhar Kammula, Karthika Srinivas, Jim Sarbh, Niketh Bommi, and Rashmika Mandanna in Kuberaa (2025)"
+            ]
+        },
+        {
+            "name": "Tron: Legacy",
+            "id": "tt1104001",
+            "runtime": "125 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1104001.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1104001\/img",
+            "year": 2010,
+            "type": "movie",
+            "imdbRating": 6.8,
+            "description": "The son of a computer programmer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Jeff Bridges, Olivia Wilde, and Garrett Hedlund in Tron: Legacy (2010)"
+            ]
+        },
+        {
+            "name": "War",
+            "id": "tt7430722",
+            "runtime": "151 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt7430722.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt7430722\/img",
+            "year": 2019,
+            "type": "movie",
+            "imdbRating": 6.6,
+            "description": "Kabir, a secret agent, goes rogue after a mission to catch a terrorist goes awry. However, his boss sends Khalid, another agent and his student, to track him down.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "cast": [
+                "Hrithik Roshan and Tiger Shroff in War (2019)"
+            ]
+        },
+        {
+            "name": "RRR",
+            "id": "tt8178634",
+            "runtime": "187 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt8178634.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt8178634\/img",
+            "year": 2022,
+            "type": "movie",
+            "imdbRating": 7.8,
+            "description": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "cast": [
+                "Ajay Devgn, Alia Bhatt, Olivia Morris, N.T. Rama Rao Jr., and Ram Charan in RRR (2022)"
+            ]
+        },
+        {
+            "name": "The Happening",
+            "id": "tt0949731",
+            "runtime": "91 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt0949731.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt0949731\/img",
+            "year": 2008,
+            "type": "movie",
+            "imdbRating": 5,
+            "description": "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide.",
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Mark Wahlberg, Zooey Deschanel, and Ashlyn Sanchez in The Happening (2008)"
+            ]
+        },
+        {
+            "name": "The Last Voyage of the Demeter",
+            "id": "tt1001520",
+            "runtime": "118 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1001520.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1001520\/img",
+            "year": 2023,
+            "type": "movie",
+            "imdbRating": 6.1,
+            "description": "A crew sailing from Varna (Bulgaria) by the Black Sea to England find that they are carrying very dangerous cargo.",
+            "genres": [
+                "Fantasy",
+                "Horror",
+                "Thriller"
+            ],
+            "cast": [
+                "Javier Botet in The Last Voyage of the Demeter (2023)"
+            ]
+        },
+        {
+            "name": "Ronth",
+            "id": "tt33294533",
+            "runtime": "122 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt33294533.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt33294533\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 7.1,
+            "description": "Two patrol officers face mounting tensions during a night shift as they navigate dangerous calls while confronting their strained partnership and personal demons.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Ronth (2025)"
+            ]
+        },
+        {
+            "name": "J.S.K - Janaki V v\/s State of Kerala",
+            "id": "tt23458804",
+            "runtime": "154 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt23458804.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt23458804\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 6.1,
+            "description": "Film tells the story of Janaki who becomes the victim of an inhuman activity, her unexpected encounter with Adv. David Abel Donovan and how she fights for her justice challenging the court and the judiciary system of India.",
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "cast": [
+                "J.S.K - Janaki V v\/s State of Kerala (2025)"
+            ]
+        },
+        {
+            "name": "Zero Dark Thirty",
+            "id": "tt1790885",
+            "runtime": "157 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1790885.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1790885\/img",
+            "year": 2012,
+            "type": "movie",
+            "imdbRating": 7.4,
+            "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+            "genres": [
+                "Drama",
+                "History",
+                "Thriller"
+            ],
+            "cast": [
+                "Zero Dark Thirty (2012)"
+            ]
+        },
+        {
+            "name": "Maharaja",
+            "id": "tt26548265",
+            "runtime": "141 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt26548265.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt26548265\/img",
+            "year": 2024,
+            "type": "movie",
+            "imdbRating": 8.4,
+            "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"lakshmi\" has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive \"lakshmi\" unfolds.",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "cast": [
+                "Maharaja (2024)"
+            ]
+        },
+        {
+            "name": "Maalik",
+            "id": "tt32832266",
+            "runtime": "149 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt32832266.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt32832266\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 6.8,
+            "description": "Maalik is a gangster drama starring Rajkummar Rao that is expected to be a gripping story about a man's rise to power in the underworld. The film is based on social issues and is expected to be full of action and adventure.",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "cast": [
+                "Maalik (2025)"
+            ]
+        },
+        {
+            "name": "Mission: Impossible - Ghost Protocol",
+            "id": "tt1229238",
+            "runtime": "132 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1229238.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1229238\/img",
+            "year": 2011,
+            "type": "movie",
+            "imdbRating": 7.4,
+            "description": "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "cast": [
+                "Tom Cruise, Simon Pegg, Jeremy Renner, and Paula Patton in Mission: Impossible - Ghost Protocol (2011)"
+            ]
+        },
+        {
+            "name": "Slumdog Millionaire",
+            "id": "tt1010048",
+            "runtime": "120 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1010048.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1010048\/img",
+            "year": 2008,
+            "type": "movie",
+            "imdbRating": 8,
+            "description": "When a teenager from the slums of Mumbai is interrogated about his suspicious performance on a quiz show, he revisits various events from his past to explain how he knew all the answers.",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Romance"
+            ],
+            "cast": [
+                "Anil Kapoor, Irrfan Khan, Mia Drake, Shruti Seth, Faezeh Jalali, Dev Patel, and Freida Pinto in Slumdog Millionaire (2008)"
+            ]
+        },
+        {
+            "name": "The Fabelmans",
+            "id": "tt14208870",
+            "runtime": "151 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt14208870.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt14208870\/img",
+            "year": 2022,
+            "type": "movie",
+            "imdbRating": 7.5,
+            "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Steven Spielberg, Judd Hirsch, Paul Dano, Seth Rogen, Michelle Williams, Keeley Karsten, Tony Kushner, Birdie Borria, Alina Brace, Sophia Kopera, Mateo Zoryan, Gabriel LaBelle, Chloe East, and Julia Butters in The Fabelmans (2022)"
+            ]
+        },
+        {
+            "name": "Real Steel",
+            "id": "tt0433035",
+            "runtime": "127 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt0433035.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt0433035\/img",
+            "year": 2011,
+            "type": "movie",
+            "imdbRating": 7.1,
+            "description": "In a near future where robot boxing is a top sport, a struggling ex-boxer feels he's found a champion in a discarded robot.",
+            "genres": [
+                "Action",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "cast": [
+                "Hugh Jackman in Real Steel (2011)"
+            ]
+        },
+        {
+            "name": "Bridge of Spies",
+            "id": "tt3682448",
+            "runtime": "142 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt3682448.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt3682448\/img",
+            "year": 2015,
+            "type": "movie",
+            "imdbRating": 7.6,
+            "description": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",
+            "genres": [
+                "Drama",
+                "History",
+                "Thriller"
+            ],
+            "cast": [
+                "Tom Hanks in Bridge of Spies (2015)"
+            ]
+        },
+        {
+            "name": "How to Train Your Dragon 2",
+            "id": "tt1646971",
+            "runtime": "102 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt1646971.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt1646971\/img",
+            "year": 2014,
+            "type": "movie",
+            "imdbRating": 7.8,
+            "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "cast": [
+                "How to Train Your Dragon 2 (2014)"
+            ]
+        },
+        {
+            "name": "Jumanji: The Next Level",
+            "id": "tt7975244",
+            "runtime": "123 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt7975244.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt7975244\/img",
+            "year": 2019,
+            "type": "movie",
+            "imdbRating": 6.6,
+            "description": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "cast": [
+                "Danny Glover, Jack Black, Kevin Hart, Dwayne Johnson, and Karen Gillan in Jumanji: The Next Level (2019)"
+            ]
+        },
+        {
+            "name": "The Bourne Supremacy",
+            "id": "tt0372183",
+            "runtime": "108 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt0372183.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt0372183\/img",
+            "year": 2004,
+            "type": "movie",
+            "imdbRating": 7.7,
+            "description": "When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",
+            "genres": [
+                "Action",
+                "Mystery",
+                "Thriller"
+            ],
+            "cast": [
+                "Matt Damon in The Bourne Supremacy (2004)"
+            ]
+        },
+        {
+            "name": "Metro in Dino",
+            "id": "tt24225606",
+            "runtime": "162 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt24225606.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt24225606\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 7.3,
+            "description": "Follows stories of bittersweet relationships in a contemporary setting, exploring various aspects, hues, and moods of love.",
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "cast": [
+                "Neena Gupta, Anupam Kher, Fatima Sana Shaikh, Konkona Sen Sharma, Pankaj Tripathi, Aditya Roy Kapoor, Ali Fazal, and Sara Ali Khan in Metro in Dino (2025)"
+            ]
+        },
+        {
+            "name": "Lincoln",
+            "id": "tt0443272",
+            "runtime": "150 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt0443272.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt0443272\/img",
+            "year": 2012,
+            "type": "movie",
+            "imdbRating": 7.3,
+            "description": "As the Civil War rages on, U.S President Abraham Lincoln struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on his decision to emancipate the slaves.",
+            "genres": [
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "cast": [
+                "Daniel Day-Lewis in Lincoln (2012)"
+            ]
+        },
+        {
+            "name": "Tourist Family",
+            "id": "tt34915705",
+            "runtime": "150 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt34915705.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt34915705\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 8.2,
+            "description": "A quirky Sri Lankan family seeking a fresh start in India transforms a disconnected neighborhood into a vibrant community with their infectious love and kindness.",
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "cast": [
+                "Tourist Family (2025)"
+            ]
+        },
+        {
+            "name": "Dhumketu",
+            "id": "tt6376792",
+            "runtime": "131 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt6376792.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt6376792\/img",
+            "year": 2025,
+            "type": "movie",
+            "imdbRating": 7,
+            "description": "A tea estate manager in North Sikkim loses his job, facing limited work options in the hills. He strives to support his family and restore happiness amid financial hardship.",
+            "genres": [
+                "Drama"
+            ],
+            "cast": [
+                "Chiranjit, Alakananda Ray, Gurupada Adhikari, Dulal Lahiri, Md Parvez Hossain, Imran Nazim, Kaushik Ganguly, Parambrata Chattopadhyay, Rudranil Ghosh, Soumik Haldar, Dev, Subhasree Ganguly, Indraadip Dasgupta, Anupam Roy, Dhananjoy Mandol, Rana Sarkar, Rajdeep Ghosh, Dev Adhikari, and Subhajit Singha in Dhumketu (2025)"
+            ]
+        },
+        {
+            "name": "Extraction",
+            "id": "tt8936646",
+            "runtime": "116 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt8936646.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt8936646\/img",
+            "year": 2020,
+            "type": "movie",
+            "imdbRating": 6.8,
+            "description": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "cast": [
+                "Chris Hemsworth in Extraction (2020)"
+            ]
+        },
+        {
+            "name": "Life of Pi",
+            "id": "tt0454876",
+            "runtime": "127 min",
+            "poster": "https:\/\/api.ratingposterdb.com\/t0-free-rpdb\/imdb\/poster-default\/tt0454876.jpg",
+            "background": "https:\/\/images.metahub.space\/background\/medium\/tt0454876\/img",
+            "year": 2012,
+            "type": "movie",
+            "imdbRating": 7.9,
+            "description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "cast": [
+                "Suraj Sharma in Life of Pi (2012)"
+            ]
         }
     ]
 }
