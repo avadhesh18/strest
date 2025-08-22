@@ -1,0 +1,22 @@
+{
+  "id": "com.overdevs.myfeed",
+  "version": "1.0.0",
+  "name": "My Custom Feed",
+  "description": "Curated movies just for me",
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "myfeed",
+      "name": "My Feed"
+    }
+  ],
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "myfeed"
+  ]
+}
