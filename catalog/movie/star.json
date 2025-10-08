@@ -1,12 +1,6 @@
 <trailer><name>Alien: Romulus</name><ytid>GTNMt84KT0k</ytid><json>  
   "Pattern": [
-    {
-      "Event": {
-        "Time": 0,
-        "EventType": "AudioCustom",
-        "EventParameters": []
-      }
-    },
+
     {
       "Event": {
         "Time": 21.015,
